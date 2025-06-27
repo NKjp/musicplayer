@@ -19,95 +19,24 @@ const songs = [
         cover: 'assets/画像番号.jpg',
         artist: '作者',
     },*/ 
-    {
+        {
         path: 'assets/1.mp3',
-        displayName: 'あくあ色パレット',
-        cover: 'assets/1.jpg',
-        artist: '湊あくあ',
-    },
-        {
-        path: 'assets/2.mp3',
-        displayName: 'ダブルベッド',
-        cover: 'assets/2.jpg',
-        artist: '茉ひる',
-    },
-        {
-        path: 'assets/3.mp3',
-        displayName: 'すきっちゅうの',
-        cover: 'assets/3.jpg',
-        artist: 'かぴ',
-    },
-       {
-        path: 'assets/4.mp3',
-        displayName: '推し★ごと',
-        cover: 'assets/4.jpg',
-        artist: 'かぴ',
-    },
-       {
-        path: 'assets/5.mp3',
-        displayName: 'If I Can t Have You',
-        cover: 'assets/5.jpg',
-        artist: 'Shawn Mendes',
-    },
-       {
-        path: 'assets/6.mp3',
-        displayName: '最高到達点',
-        cover: 'assets/6.jpg',
-        artist: 'SEKAI NO OWARI',
-    },
-        {
-        path: 'assets/7.mp3',
-        displayName: 'とくべチュ、して',
-        cover: 'assets/7.jpg',
-        artist: '=LOVE',
-    },
-        {
-        path: 'assets/8.mp3',
-        displayName: 'どきどきキュン！で大暴走♥',
-        cover: 'assets/8.jpg',
-        artist: 'いずれ菖蒲か杜若',
-    },
-        {
-        path: 'assets/9.mp3',
-        displayName: 'ヒバナ',
-        cover: 'assets/9.jpg',
-        artist: 'feat.初音ミク',
-    },
-        {
-        path: 'assets/10.mp3',
-        displayName: 'ラビットホール',
-        cover: 'assets/10.jpg',
-        artist: 'feat.初音ミク',
-    },
-        {
-        path: 'assets/11.mp3',
-        displayName: 'ういこうせん',
-        cover: 'assets/11.jpg',
-        artist: 'しぐれいうい',
-    },
-        {
-        path: 'assets/12.mp3',
         displayName: 'Airborne',
-        cover: 'assets/12.jpg',
+        cover: 'assets/1.jpg',
         artist: 'Bleach',
     },
+ 
         {
-        path: 'assets/13.mp3',
-        displayName: '人生リセットボタンぽちー w',
-        cover: 'assets/13.jpg',
-        artist: '沙花叉クロヱ',
-    },
-        {
-        path: 'assets/14.mp3',
+        path: 'assets/2.mp3',
         displayName: 'Aim for the TOP',
-        cover: 'assets/14.jpg',
+        cover: 'assets/2.jpg',
         artist: 'TAP SONIC',
     },
 
             {
-        path: 'assets/15.mp3',
+        path: 'assets/3.mp3',
         displayName: 'クラゲワンダー',
-        cover: 'assets/15.jpg',
+        cover: 'assets/3.jpg',
         artist: 'coco.',
     },
 ];
